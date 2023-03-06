@@ -29,20 +29,20 @@ It is a Blogging App avilable of Play store to download from [here](https://play
   
 ---
   
-### Screenshots
+# Screenshots
 
 Home page
 
-![Home page](https://play-lh.googleusercontent.com/rJtA5mIaYgCQUAejq3GATE4iK54DYFY12jgoanQg5PkC6XscNN3eBY74NY3_K2-2dgw=w2560-h1440-rw)
+<img src="https://play-lh.googleusercontent.com/rJtA5mIaYgCQUAejq3GATE4iK54DYFY12jgoanQg5PkC6XscNN3eBY74NY3_K2-2dgw=w2560-h1440-rw" alt="Home page" width="480"/>
 
 User blog
 
-![Blog](https://play-lh.googleusercontent.com/0xQRmMUl5o7-eqJVXZ5asHQodQJiUbE7NEqnXvZlS6mT6i90lo_DZIdE3oUjDgkvwQ=w2560-h1440-rw)
+<img src="https://play-lh.googleusercontent.com/0xQRmMUl5o7-eqJVXZ5asHQodQJiUbE7NEqnXvZlS6mT6i90lo_DZIdE3oUjDgkvwQ=w2560-h1440-rw" alt="Blog" width="480"/>
 
 Home page dark mode
 
-![Home page dark mode](https://play-lh.googleusercontent.com/-5_dEpyJncxMDq1RsIv6YgSmiPidAIMALy0LR3NbgNi03z8hrOCLpQI5i_zjkVXyrKg=w2560-h1440-rw)
+<img src="https://play-lh.googleusercontent.com/-5_dEpyJncxMDq1RsIv6YgSmiPidAIMALy0LR3NbgNi03z8hrOCLpQI5i_zjkVXyrKg=w2560-h1440-rw" alt="Home page dark mode" width="480"/>
 
 User page dark mode
 
-![User page dark mode](https://play-lh.googleusercontent.com/bHvOYhoix8cronvoVtsWwTWXpL7zOZDUiiHuDPKjJK-3KH35asR64HQU38dUcagjgcY=w2560-h1440-rw)
+<img src="https://play-lh.googleusercontent.com/bHvOYhoix8cronvoVtsWwTWXpL7zOZDUiiHuDPKjJK-3KH35asR64HQU38dUcagjgcY=w2560-h1440-rw" alt="User page dark mode" width="480"/>
