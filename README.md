@@ -1,3 +1,4 @@
+![logo](https://play-lh.googleusercontent.com/Bxpg3BmYi9X6hwB5st4zA4mYfe48qo9zt8C9WxzhLskoK1mFbhtrWM4ax9TUhW4dxqnd=w240-h480-rw)
 # MyBlogs
 
 MyBlogs is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
@@ -6,6 +7,7 @@ MyBlogs is a blogging platform where users can share their daily life, they can 
 It is a Blogging App avilable of Play store to download from [here](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog)
 
 ---
+
 ### Available Features
   - Using authentication using Google and Email.
   - Users can also skip login to just browse blogs.
@@ -21,7 +23,26 @@ It is a Blogging App avilable of Play store to download from [here](https://play
   - Sharing of blogs to other platform using links is available.
   - Website is under construction
   - Popular blogs and popular users of past week section available.
+  - Users can also login with just their email if they forgot their password.
   
   Many more features are under development...
-  ---
-  Screenshots
+  
+---
+  
+### Screenshots
+
+Home page
+
+![Home page](https://play-lh.googleusercontent.com/rJtA5mIaYgCQUAejq3GATE4iK54DYFY12jgoanQg5PkC6XscNN3eBY74NY3_K2-2dgw=w2560-h1440-rw)
+
+User blog
+
+![Blog](https://play-lh.googleusercontent.com/0xQRmMUl5o7-eqJVXZ5asHQodQJiUbE7NEqnXvZlS6mT6i90lo_DZIdE3oUjDgkvwQ=w2560-h1440-rw)
+
+Home page dark mode
+
+![Home page dark mode](https://play-lh.googleusercontent.com/-5_dEpyJncxMDq1RsIv6YgSmiPidAIMALy0LR3NbgNi03z8hrOCLpQI5i_zjkVXyrKg=w2560-h1440-rw)
+
+User page dark mode
+
+![User page dark mode](https://play-lh.googleusercontent.com/bHvOYhoix8cronvoVtsWwTWXpL7zOZDUiiHuDPKjJK-3KH35asR64HQU38dUcagjgcY=w2560-h1440-rw)
