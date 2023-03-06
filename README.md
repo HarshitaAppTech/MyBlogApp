@@ -4,7 +4,7 @@
 MyBlogs is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
 
 
-It is a Blogging App avilable of Play store to download from [here](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog)
+It is a Blogging App avilable on [PlayStore](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog)
 
 ---
 
