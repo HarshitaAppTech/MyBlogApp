@@ -1,6 +1,8 @@
 ![logo](https://play-lh.googleusercontent.com/Bxpg3BmYi9X6hwB5st4zA4mYfe48qo9zt8C9WxzhLskoK1mFbhtrWM4ax9TUhW4dxqnd=w240-h480-rw)
 # MyBlogs
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulgaur&label=Views&&color=green&style=for-the-badge" alt="rahulgaur" /> </p>
+
 MyBlogs is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
 
 
