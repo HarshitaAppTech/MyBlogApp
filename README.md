@@ -3,7 +3,9 @@
 
 Previously MyBlogs
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulgaur&label=Views&&color=green&style=for-the-badge" alt="MyBlog" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=HarshitaAppTech&repo=ThoughtlyApp&label=Views&color=green&style=for-the-badge" alt="ThoughtlyApp" /> 
+</p>
 
 Thoughtly is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
 
