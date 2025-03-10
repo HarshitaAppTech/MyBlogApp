@@ -1,9 +1,11 @@
-![logo](https://play-lh.googleusercontent.com/Bxpg3BmYi9X6hwB5st4zA4mYfe48qo9zt8C9WxzhLskoK1mFbhtrWM4ax9TUhW4dxqnd=w240-h480-rw)
-# MyBlogs
+![logo](https://play-lh.googleusercontent.com/ROvP86vtJD4ric_8yBPFwdbXCIHveE0JV4aTw0ArEcZsXuO4FwYD0MI3Y3ikw1aYDG8=w240-h480-rw)
+# Thoughtly 
+
+Previously MyBlogs
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulgaur&label=Views&&color=green&style=for-the-badge" alt="MyBlog" /> </p>
 
-MyBlogs is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
+Thoughtly is a blogging platform where users can share their daily life, they can write blogs about any topic, they can share some insite into their life or just share knowledge with others. Users can create journals and write which can help others too. In our platform people can engage with the blog writer and enourage them by linking or even following them.
 
 
 It is a Blogging App avilable on [PlayStore](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog)
